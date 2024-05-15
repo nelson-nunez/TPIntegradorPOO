@@ -11,6 +11,7 @@ namespace Integrador.BaseClas
         public const int ImporteMaximo = 10000;
 
         public const int Pendiente = 1;
+
         public const int Pagado = 2;
 
     }
